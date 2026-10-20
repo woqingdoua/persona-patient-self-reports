@@ -1,0 +1,8 @@
+-r requirements.txt
+matplotlib
+scipy
+scikit-learn
+pingouin
+spacy
+nltk
+textstat
